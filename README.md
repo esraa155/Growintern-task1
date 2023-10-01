@@ -1,10 +1,9 @@
-# CODSOFT
-  - This repo for uploading CODSOFT Tasks/Projects that i have finished
-  - Period from (20 AUG - 20 SPET).
+# Growintern
+  - This repo for uploading Growintern Tasks/Projects that i have finished
+  - Period from (5 spet - 5 oct).
 -----------------------
-Level-1 Tasks/Projects.
+ Tasks/Projects.
 -----------------------
-  - Task-1 : Landing Page
   - Task-2 : Professional Protfolio
   - Task-3 : Calculator
 -----------------------
